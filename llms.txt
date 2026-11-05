@@ -1,0 +1,24 @@
+# OF Musical
+
+> Escola de música em Av. dos Autonomistas, 1087 - Vila Yara, Osasco - SP, 06020-015. Aulas individuais de violão, guitarra, baixo, bateria, canto, piano e teclado para todas as idades, presenciais ou online, com aula experimental. Atendimento pelo WhatsApp (11) 94035-0109.
+
+## Dados do negócio
+
+- Endereço: Av. dos Autonomistas, 1087 - Vila Yara, Osasco - SP, 06020-015
+- Horário: Seg a sex, 8h às 21h; sáb, 8h às 18h
+- WhatsApp: (11) 94035-0109 (https://wa.me/5511940350109)
+- Instagram: https://www.instagram.com/of.musical/
+
+## Serviços
+
+- Aulas de violão, guitarra, baixo, bateria, canto, piano e teclado
+- Aulas individuais, presenciais ou online, para crianças, jovens e adultos
+- Aula experimental
+- Aulas de banda e audições
+- Aluguel do espaço para ensaios
+- Instrumentos à disposição durante a aula
+
+## Páginas
+
+- [Página inicial](https://caiquevieira.github.io/of-musical-demo/)
+- [Política de Privacidade](https://caiquevieira.github.io/of-musical-demo/politica-de-privacidade.html)
